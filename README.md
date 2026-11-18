@@ -22,7 +22,7 @@ A quiet Time Machine menu can mean a recent backup or a drive that has been away
 
 ## Example from the emulator
 
-With a 24-hour limit, a 22-hour-old backup leaves two hours. At 26 hours the same copy would be two hours overdue. An inaccessible destination is reported as unavailable rather than being treated as a new backup. Controlled last-backup timestamp. A mounted Time Machine destination was unavailable.
+With a 24-hour limit, a 22-hour-old backup leaves two hours. At 26 hours the same copy would be two hours overdue. An inaccessible destination is reported as unavailable rather than being treated as a new backup. The recording used a controlled backup timestamp supplied to the adapter.
 
 ## Set up the source
 
