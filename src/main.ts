@@ -5,10 +5,6 @@ instrument({
   "primary": "Backup Proof",
   "accent": "#7BC6A6",
   "cadence": 120000,
-  "motion": {
-    "motif": "cells",
-    "color": "#7BC6A6",
-    "shine": "#FFF2D6"
-  },
+  "motion": {enabled:false},
   "setup": "Start companion/serve.py"
 });

@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.backupproof exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "49de70d256dfbf04d22c41ffd3b2b86f1217a5a12b44e76cb431b2bc64dfdae8",
+  "sha256": "597eb3f53d93f7f50e885ca50d394d1709eaa763722e3e739a787150a60e3aef",
   "pages": [
     {
       "caption": "BACKUP AGE",
@@ -53,9 +53,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      3,
+      2
     ],
-    "exit": "App io.btype.backupproof exited: finished; heap peak 87.1 of 128 KiB"
+    "exit": "App io.btype.backupproof exited: finished; heap peak 85.6 of 128 KiB"
   }
 }
