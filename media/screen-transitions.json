@@ -1,0 +1,47 @@
+{
+  "app": "busybar-backup-proof",
+  "sha256": "e24e7ba2a9d34fb2eace4f35dc958fcc1d4ccda90bcd7af13a43a0a52fc0ac5d",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "inspect-backup-margin",
+        "return-to-backup-age"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        7,
+        7,
+        25
+      ],
+      "rear_frames": 15,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

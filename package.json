@@ -1,7 +1,7 @@
 {
   "name": "busybar-backup-proof",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Show the age of the latest completed Mac backup and the time left before it becomes overdue.",
   "author": "ncoooooper",
   "type": "module",

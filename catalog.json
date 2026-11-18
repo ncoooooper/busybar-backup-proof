@@ -2,5 +2,5 @@
   "category": "dev-monitoring",
   "short_description": "Show the age of the latest completed Mac backup and the time left before it becomes overdue.",
   "description": "Show the age of the latest completed Mac backup and the time left before it becomes overdue. Set max_hours to your preferred freshness limit. The host reads tmutil latestbackup -t. Connect or mount the Time Machine destination so macOS can find its latest completed copy. A missing or inaccessible destination is reported as unavailable. The app does not start a backup.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

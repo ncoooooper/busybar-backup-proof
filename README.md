@@ -4,6 +4,20 @@ Show the age of the latest completed Mac backup and the time left before it beco
 
 A quiet Time Machine menu can mean a recent backup or a drive that has been away all day. This display gives the age of the last completed copy and the time left under your own freshness rule.
 
+## Screen transitions
+
+Browse the backup readings and return to the latest completed copy.
+
+![Backup Proof front display. Browse the backup readings and return to the latest completed copy.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Backup Proof rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Check the latest completed copy
 
 1. Make the Time Machine destination available to your Mac and set a maximum age in hours.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
