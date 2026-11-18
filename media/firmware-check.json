@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.backupproof exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "6f94674e5c967f439f5eae10eefc6db8b37f33389d2baacd86ab9b69455de109",
+  "sha256": "49de70d256dfbf04d22c41ffd3b2b86f1217a5a12b44e76cb431b2bc64dfdae8",
   "pages": [
     {
       "caption": "BACKUP AGE",
@@ -38,5 +38,24 @@
       "Limit 24 hours"
     ],
     "fraction": 0.9166666666777045
+  },
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "Recorded companion readings",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok"
+      ]
+    ],
+    "frames": 128,
+    "distinct_by_flow": [
+      7,
+      11
+    ],
+    "exit": "App io.btype.backupproof exited: finished; heap peak 87.1 of 128 KiB"
   }
 }
