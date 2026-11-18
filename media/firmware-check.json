@@ -1,0 +1,42 @@
+{
+  "id": "BB-024",
+  "source": "Controlled last-backup timestamp. A mounted Time Machine destination was unavailable.",
+  "scenario": "A completed backup 22 hours old had two hours left against a 24-hour freshness policy.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.backupproof exited: finished; heap peak 81.8 of 128 KiB",
+  "sha256": "ca9ac1a7f3e50e0055393dafb569103255212ecbbf2cd9315b6e367666f49312",
+  "pages": [
+    {
+      "caption": "BACKUP AGE",
+      "value": "22.0h",
+      "lines": [
+        "2026-11-17 04:18",
+        "Limit 24 hours"
+      ],
+      "fraction": 0.9166666666777045
+    },
+    {
+      "caption": "TIME LEFT",
+      "value": "2.0h",
+      "lines": [
+        "Age of last completed copy",
+        "No backup is started"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "BACKUP AGE",
+    "value": "22.0h",
+    "lines": [
+      "2026-11-17 04:17",
+      "Limit 24 hours"
+    ],
+    "fraction": 0.9166666666666666
+  }
+}
