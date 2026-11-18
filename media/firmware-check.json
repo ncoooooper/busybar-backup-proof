@@ -10,16 +10,16 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.backupproof exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "ca9ac1a7f3e50e0055393dafb569103255212ecbbf2cd9315b6e367666f49312",
+  "sha256": "6f94674e5c967f439f5eae10eefc6db8b37f33389d2baacd86ab9b69455de109",
   "pages": [
     {
       "caption": "BACKUP AGE",
       "value": "22.0h",
       "lines": [
-        "2026-11-17 04:18",
+        "2026-11-17 04:35",
         "Limit 24 hours"
       ],
-      "fraction": 0.9166666666777045
+      "fraction": 0.916666666680464
     },
     {
       "caption": "TIME LEFT",
@@ -34,9 +34,9 @@
     "caption": "BACKUP AGE",
     "value": "22.0h",
     "lines": [
-      "2026-11-17 04:17",
+      "2026-11-17 04:35",
       "Limit 24 hours"
     ],
-    "fraction": 0.9166666666666666
+    "fraction": 0.9166666666777045
   }
 }
